@@ -38,5 +38,5 @@ Permite cadastrar funcionários, cadastrar EPIs, registrar entregas com assinatu
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/SEUUSUARIO/controle_epi.git
+git clone https://github.com/camila-mata/controle_epi.git
 cd controle_epi
